@@ -1,0 +1,1 @@
+Tree(Token('RULE', 'start'), ['resource = aws_instance = example = instance_type = t2.micro\nami = ami-abc123'])
